@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "বুলিয়ান মৌলিক উপপাদ্য সমূহ",
-      "definition": "বুলিয়ান অ্যালজেবরায় ব্যবহৃত মৌলিক উপপাদ্যসমূহ হলো সেই গাণিতিক নিয়মাবলী যা বুলিয়ান রাশিমালাকে সরলীকরণ (Simplification) করতে সাহায্য করে। এই উপপাদ্যগুলো প্রধানত তিনটি মৌলিক অপারেশনের উপর ভিত্তি করে তৈরি। যেমন:\n {OR অপারেশন (OR Operation):}$$A+0 = A$$ \n$$A+1 = 1$$\n    $$A+A = A$$\n    $$A+\bar{A} = 1$$\n\n    item \textbf{AND অপারেশন (AND Operation):}\n    $$A cdot 1 = A$$\n    $$A cdot 0 = 0$$\n    $$A cdot A = A$$\n    $$A cdot \bar{A} = 0$$\n\n    item \textbf{দ্বৈত পরিপূরক (Double Complement):}\n    $$overline{overline{A}} = A$$\n\n    item \textbf{অ্যাসোসিয়েটিভ, কমিউটেটিভ ও ডিস্ট্রিবিউটিভ নীতিসমূহ (Associative, Commutative, and Distributive Laws):}\n    যেমন:\n    $$A cdot (B+C) = A cdot B + A cdot C$$"
+      "definition": "বুলিয়ান অ্যালজেবরায় ব্যবহৃত মৌলিক উপপাদ্যসমূহ হলো সেই গাণিতিক নিয়মাবলী যা বুলিয়ান রাশিমালাকে সরলীকরণ (Simplification) করতে সাহায্য করে। এই উপপাদ্যগুলো প্রধানত তিনটি মৌলিক অপারেশনের উপর ভিত্তি করে তৈরি। যেমন:\n {OR অপারেশন (OR Operation):}$$A+0 = A$$\n   $$A+1 = 1$$\n    $$A+A = A$$\n    $$A+A' = 1$$\n\n  {AND অপারেশন (AND Operation):}\n    $$A . 1 = A$$\n    $$A . 0 = 0$$\n    $$A . A = A$$\n    $$A \\cdot A' = 0$$\n\n  {দ্বৈত পরিপূরক (Double Complement):}\n    $$\\overline{\\overline{A}} = A$$\n\n  {অ্যাসোসিয়েটিভ, কমিউটেটিভ ও ডিস্ট্রিবিউটিভ নীতিসমূহ (Associative, Commutative, and Distributive Laws):}\n    যেমন:\n    $$A \\cdot (B+C) = A \\cdot B + A \\cdot C$$"
     },
     {
       "id": 3,
